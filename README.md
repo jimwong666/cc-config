@@ -1,0 +1,2 @@
+# cc-config
+claude config
